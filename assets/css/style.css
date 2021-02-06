@@ -59,12 +59,12 @@ p {
     background-position: center;
 }
 
-.float-left {
+.float:left {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float:right {
     float: right;
     margin-left: 25px;
 }
@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
