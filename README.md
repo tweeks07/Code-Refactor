@@ -2,43 +2,36 @@
 
 ## Task
 
-<uo style= "list-style: none;">
-<li>To refactor the Horiseon website's codebase to follow accessibility standards so the site is optimized for search engines.</li>
-<li>Make the CSS more efficient through consolidation.</li>
-<li>Follow the semantic structure of the HTML elements.</li>
-</uo>
-<br>
+- To refactor the Horiseon website's codebase to follow accessibility standards so the site is optimized for search engines.
+- Make the CSS more efficient through consolidation.
+- Follow the semantic structure of the HTML elements.
 
 ## Reasoning for Task
 
-
-<uo style= "list-style: none;">
-<li>To create long-term sustainability for the client.</li>
-<li>Create an organized and concise HTML and CSS</li>
-<br>
+- To create long-term sustainability for the client.
+- Create an organized and concise HTML and CSS
 
 ## Acceptance Criteria
 
-<uo style= "list-style: none;">
-<li>When I view the source code</li>
-<li>Then I find the semantic HTML elements</li>
-<li>When I view the structure of the HTML elements</li>
-<li>Then I find that the elements follow a logical structure independent of styling and positioning</li>
-<li>When I view the image elements</li>
-<li>Then I find the accessible alt atributes</li>
-<li>When I view the heading attributes</li>
-<li>Then they fall in sequential order</li>
-<li>When I view the title element</li>
-<li>Then I find a concise, descriptive title</li>
-<br>
+- When I view the source code
+- Then I find the semantic HTML elements
+- When I view the structure of the HTML elements
+- Then I find that the elements follow a logical structure independent of styling and positioning
+- When I view the image elements
+- Then I find the accessible alt atributes
+- When I view the heading attributes
+- Then they fall in sequential order
+- When I view the title element
+- Then I find a concise, descriptive title
 
 ## End Result
-![image](Horiseon.png)
-<br>
-<br>
-<strong>Repository Code:</strong>
+
+![image](assets/images/Horiseon.png)
+
+**Repository Code:**
 
 https://git@github.com/tweeks07/Code-Refactor
 
-<strong>Deployed Code:</strong>  
+**Deployed Code:**  
+
 https://tweeks07.github.io/Code-Refactor/
