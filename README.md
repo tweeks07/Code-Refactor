@@ -6,11 +6,14 @@
 - Make the CSS more efficient through consolidation.
 - Follow the semantic structure of the HTML elements.
 
-A code refactor allows the webpage to look and function effectively on different size media ex: desktop computer, tablet or cellphone
+A code refactor allows the webpage to look and function effectivel on different size media ex: desktop computer, tablet or cellphone
 
 ## Functionality
 
 ![image](assets/images/Horiseon.png)
+
+Responsive website
+![image](assets/images/responsive.png)
 
 ## Technologies & Skills Used
 
