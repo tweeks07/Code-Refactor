@@ -6,14 +6,15 @@
 - Make the CSS more efficient through consolidation.
 - Follow the semantic structure of the HTML elements.
 
-## Reasoning for Task
+A code refactor allows the webpage to look and function effectively on different size media ex: desktop computer, tablet or cellphone
 
-- To create long-term sustainability for the client.
-- Create an organized and concise HTML and CSS
-
-## End Result
+## Functionality
 
 ![image](assets/images/Horiseon.png)
+
+## Technologies & Skills Used
+
+Inspect tool on webpage- the toolbar allows the developer to adjust the media size for the refactor
 
 ## Deployment
 ---
